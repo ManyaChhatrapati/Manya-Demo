@@ -1,3 +1,3 @@
 # Manya-Demo
 This is my first GitHub Repository
-Author - Manya
+Author - Manya Chhatrapati
